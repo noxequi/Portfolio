@@ -41,8 +41,7 @@
 個人制作
 
 ## 4. デモ動画
-[<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/3ed9bf7e-5f76-4132-ad30-ada817c82629" />
-](https://www.youtube.com/watch?v=c_aoR-3ZqJo)
+[<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/30b0bcde-d008-4198-8a49-13f248c3eb08" />](https://www.youtube.com/watch?v=c_aoR-3ZqJo)
 
 ## 5. 遊び方・操作方法
 ジャンプをするたびに、一部の足場のON・OFFが切り替わります。  
