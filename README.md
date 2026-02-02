@@ -9,7 +9,7 @@
 Unityを用いて作成しました。  
 コインを集めながらゴールを目指すゲームです。  
 
-## [Sort Visuallizer]()
+## [Sort Visuallizer](https://github.com/noxequi/Portfolio/tree/main/Sort%20Visualizer)
 これは、2025年1月に大学の課題で作成したソートアルゴリズム可視化のアプリケーションです。  
 Unityを用いて実装しました。  
 
