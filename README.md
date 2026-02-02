@@ -6,7 +6,7 @@
 以下は作品の概要です。  
 
 # 制作したゲーム
-## [Vertere](https://github.com/noxequi/Portfolio/tree/main/Vertere)
+## [vertere](https://github.com/noxequi/Portfolio/tree/main/vertere)
 このゲームは、2024年10月にサークル内の1weekゲームジャムにて作成した2Dアクションゲームです。  
 
 Unityを用いて作成しました。  
