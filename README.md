@@ -1,30 +1,40 @@
 # Portfolio
 このリポジトリは、今まで制作した作品を公開したものです。  
+
 それぞれのファイルに作品とそれについての説明が書かれています。  
+
 以下は作品の概要です。  
 
 # 制作したゲーム
 ## [Vertere](https://github.com/noxequi/Portfolio/tree/main/Vertere)
 このゲームは、2024年10月にサークル内の1weekゲームジャムにて作成した2Dアクションゲームです。  
+
 Unityを用いて作成しました。  
+
 コインを集めながらゴールを目指すゲームです。  
 
 ## [Sort Visuallizer](https://github.com/noxequi/Portfolio/tree/main/Sort%20Visualizer)
 これは、2025年1月に大学の課題で作成したソートアルゴリズム可視化のアプリケーションです。  
+
 Unityを用いて実装しました。  
 
 ## [Tractus](https://github.com/noxequi/Portfolio/tree/main/Tractus)
 このゲームは、2025年8月にUnity1週間ゲームジャム お題「ひく」にて作成した2Dパズルゲームです。  
+
 Unityを用いて作成しました。  
+
 画面上に線を引いて、動き続けるキャラクターを誘導してゴールを目指すゲームです。　　
 
 ## [DREAM](https://github.com/noxequi/Portfolio/tree/main/DREAM)
 このゲームは、2025年3月~9月に、CAPCOM GAMES COMPETITIONにて作成した3Dステルスタワーディフェンスゲームです。  
+
 REENGINEを用いて作成しました。  
+
 プレイヤーがステージを駆け回りながら倒した敵を味方にし、クリアを目指す3Dタワーディフェンスゲームです。  
 
-## [TurriScandere]()
+## [TurriScandere](https://github.com/noxequi/Portfolio/tree/main/TurriScandere)
 このゲームは、2025年12月に1dayゲームジャムを開催し、そこで作成した2D塔登りアクションゲームです。  
-Unityを用いて実装しました。  
-迫りくる敵の攻撃を避けながらひたすらに上を目指して上り続けるアクションゲームです。  
 
+Unityを用いて実装しました。  
+
+迫りくる敵の攻撃を避けながらひたすらに上を目指して上り続けるアクションゲームです。  
