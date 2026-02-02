@@ -1,4 +1,6 @@
 # Sort Visualizer
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/a9d2af41-1929-4ffb-8025-c6eb6e115ba2" />
+<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/3ef201b0-ff92-4cd7-89f8-0523fdf26d28" />
 
 
 ## 目次
@@ -10,7 +12,7 @@
 
 4. [デモ動画](#4-デモ動画)
 
-5. [遊び方・操作方法](#5-遊び方・操作方法)
+5. [遊び方・操作方法](#5-遊び方操作方法)
 
 6. [意識したこと](#6-意識したこと)
 
@@ -30,6 +32,7 @@
 個人制作
 
 ## 4. デモ動画
+[<img width="1897" height="1122" alt="image" src="https://github.com/user-attachments/assets/c1cdb071-966c-42ce-b290-d2bdeca74e37" />](https://www.youtube.com/watch?v=Sr5qkagWD-4)
 
 ## 5. 遊び方・操作方法
 画面右側にある設定欄から、要素数、初期配列、ソートアルゴリズム、背景色等を選択し、Startボタンを押すことで設定が完了します。設定欄にある再生ボタンを押すと、ソートが開始されます。
