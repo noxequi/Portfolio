@@ -7,7 +7,7 @@
 
 # 制作したゲーム
 ## [vertere](https://github.com/noxequi/Portfolio/tree/main/vertere)
-このゲームは、2024年10月にサークル内の1weekゲームジャムにて作成した2Dアクションゲームです。  
+このゲームは、2024年9月にサークル内の1weekゲームジャムにて作成した2Dアクションゲームです。  
 
 Unityを用いて作成しました。  
 
