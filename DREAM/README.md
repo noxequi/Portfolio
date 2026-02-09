@@ -51,7 +51,7 @@ CAPCOM GAMES COMPETIRIONにて制作したゲームです。
 システム・サウンド周りの実装
 
 ## 5. デモ動画
-[<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/9dc9f7ee-a8ce-4873-95bb-2eba3536ee35" />](https://youtu.be/_lwCdrSgwCM)
+[<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/9dc9f7ee-a8ce-4873-95bb-2eba3536ee35" />](https://youtu.be/TXoBlrzF50U)
 
 ## 6. 遊び方・操作方法
 タワーディフェンスゲームでありながら、プレイヤーは自身でステージを駆け回り「花」の破壊を目指します。　　
