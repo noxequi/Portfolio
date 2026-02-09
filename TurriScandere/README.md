@@ -54,7 +54,8 @@ Unityを用いて、1日で制作したゲームです。
 個人制作
 
 ## 5. デモ動画
-
+[<img width="1917" height="1082" alt="スクリーンショット 2026-02-10 021113" src="https://github.com/user-attachments/assets/6ccc7636-d3da-4fa7-a263-54ad90d34265" />
+](https://youtu.be/Spf10_Ffbt8)
 
 ## 6. 遊び方・操作方法
 左右の移動、ジャンプのみを駆使して、敵の攻撃をよけながら上を目指していきます。  
