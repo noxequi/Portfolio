@@ -1,6 +1,7 @@
+
 # カミシロ村の7日間
-<img width="500" height="300" alt="スクリーンショット 2025-11-25 155217" src="https://github.com/user-attachments/assets/dbe4e230-df84-4ad3-93a2-5c1e2c88ee26" />
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/90e57617-f7af-4ce9-945a-9c7134fa13aa" />  
+<img width="500" height="282.178217821782" alt="スクリーンショット 2026-08-17 175501" src="https://github.com/user-attachments/assets/63695d29-32da-47dd-9ff0-b1eee48998a9" />
+<img width="500" height="281.65711307973" alt="スクリーンショット 2026-08-17 175726" src="https://github.com/user-attachments/assets/7f70e175-912c-42e2-824f-a1150cc41d2e" />
 
 ## 目次
 1. [概要説明](#1-概要説明)
