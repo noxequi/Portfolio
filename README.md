@@ -62,8 +62,7 @@ Unityを用いて実装しました。
 一緒に思い出を作るか、村に伝わる儀式を調べるか、来たる日に備えて鍛えるか。
 7日目の夜、あなたが積み重ねた選択が少女の運命を決めます。
 
-## [Poopluck]
-(https://github.com/noxequi/Portfolio/tree/main/poopluck)
+## [Poopluck](https://github.com/noxequi/Portfolio/tree/main/poopluck)
 このゲームは、2026年8月にサークル内の1weekゲームジャム お題 運 にて作成した数学ゲームです。   
 
 Unreal Engineを用いて作成しました。  
@@ -72,8 +71,7 @@ Unreal Engineを用いて作成しました。
 
 最も良いものを選べたとしても、その答えの確率でゲームオーバーになってしまうため、計算力、運量共に求められるゲームです。  
 
-## [bogosort]
-(https://github.com/noxequi/Portfolio/tree/main/bogosort)
+## [bogosort](https://github.com/noxequi/Portfolio/tree/main/bogosort)
 
 このゲームは、2026年8月にサークル内の1weekゲームジャム お題 運 にて作成したインクリメンタルゲームです。   
 
