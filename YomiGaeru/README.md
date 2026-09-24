@@ -51,7 +51,7 @@
 - サウンド
 
 ## 5. デモ動画
-[<img width="317" height="212" alt="image" src="https://github.com/user-attachments/assets/1e74f461-a860-4cbf-bf1c-e3419096ab5e" />] (https://youtube.com/shorts/EgFidnZG2Yw)
+[<img width="317" height="212" alt="image" src="https://github.com/user-attachments/assets/1e74f461-a860-4cbf-bf1c-e3419096ab5e" />](https://youtube.com/shorts/qr6ON_whYHA)
 
 ## 6. 遊び方・操作方法
 ジャンプをするたびに、一部の足場のON・OFFが切り替わります。  
