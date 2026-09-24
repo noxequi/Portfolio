@@ -55,7 +55,7 @@ unity1weekで制作した2D育成RPGノベルゲームです。
 - UI
 
 ## 5. デモ動画
-[<img width="1919" height="1082" alt="image" src="https://github.com/user-attachments/assets/30b0bcde-d008-4198-8a49-13f248c3eb08" />](https://www.youtube.com/watch?v=c_aoR-3ZqJo)
+
 
 ## 6. 遊び方・操作方法
 
