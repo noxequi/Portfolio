@@ -63,7 +63,7 @@ Unityを用いて実装しました。
 7日目の夜、あなたが積み重ねた選択が少女の運命を決めます。
 
 ## [Poopluck](https://github.com/noxequi/Portfolio/tree/main/poopluck)
-このゲームは、2026年8月にサークル内の1weekゲームジャム お題 運 にて作成した数学ゲームです。   
+このゲームは、2026年8月にサークル内の1weekゲームジャム お題 「運」 にて作成した数学ゲームです。   
 
 Unreal Engineを用いて作成しました。  
 
@@ -73,7 +73,7 @@ Unreal Engineを用いて作成しました。
 
 ## [bogosort](https://github.com/noxequi/Portfolio/tree/main/bogosort)
 
-このゲームは、2026年8月にサークル内の1weekゲームジャム お題 運 にて作成したインクリメンタルゲームです。   
+このゲームは、2026年8月にサークル内の1weekゲームジャム お題 「運」にて作成したインクリメンタルゲームです。   
 
 タイトル通りボゴソートをして綺麗に整列することを目指すゲームです。  
 
